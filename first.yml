@@ -3,6 +3,8 @@
     hosts: localhost
 
     tasks:
+    
+    
 
       - name: "test reachabiliy"
         ping:
